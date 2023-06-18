@@ -1,4 +1,4 @@
-Self-Driving Cars Project (Object Detection)
+## Self-Driving Cars Project (Object Detection)
 
 Goal: to detect 5 classes and their location {1:'car', 2:'truck', 3:'pedestrian', 4:'bicyclist', 5:'light'}.
 
